@@ -1,12 +1,6 @@
-/* Adding fonts */
-@font-face {
-	font-family: CS;
-	src: url(../fonts/font.ttf);
-}
-
 html {
     background: #fafafa;
-    font-family:  "CS";
+    font-family:  Roboto, sans-serif;
 }
 
 body{
